@@ -1,0 +1,3 @@
+[gd_scene format=3 uid="uid://cqeoqtth2soet"]
+
+[node name="Platform" type="AnimatableBody2D"]
